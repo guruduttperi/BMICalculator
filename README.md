@@ -1,6 +1,8 @@
 # BMICalculator
+<img src = "appicon.png" height = 150 width = 150> 
 
-Android app to find a person's Body Mass Index and categorize into underweight, fit or overweight.
+
+ Android app to find a person's Body Mass Index and categorize into underweight, fit or overweight.
 
 
 <b> What did I Learn? </b>
