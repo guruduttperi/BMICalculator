@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="author">© Made by Searde</string>
+    <string name="initial_units">Choose Units</string>
+    <string name="metric_units">Metric</string>
+    <string name="imperial_units">Imperial</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="Height">Height</string>
+    <string name="imperial_height_hint1">Feet</string>
+    <string name="imperial_height_hint2">Inch</string>
+    <string name="Weight">Weight</string>
+    <string name="imperial_weight_hint1">Pounds</string>
+    <string name="metric_height_hint">cm</string>
+    <string name="metric_weight_hint">kg</string>
+    <string name="calcbmi">Calculate BMI</string>
+    <string name="final_say">Your BMI is:</string>
+    <string name="uare">You are</string>
+    <string name="over">Overweight</string>
+    <string name="under">Underweight</string>
+    <string name="fit">Fit</string>
+
+</resources>
